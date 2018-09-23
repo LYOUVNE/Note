@@ -55,9 +55,15 @@ $ git rm test.txt
 
 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
 
+具体操作：
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a00
+
 要克隆一个仓库，首先必须知道仓库的地址，然后使用git clone命令克隆。
 
 Git支持多种协议，包括https，但通过ssh支持的原生git协议速度最快
+
+具体操作：
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375233990231ac8cf32ef1b24887a5209f83e01cb94b00
 
 git checkout -b创建并切换分支
 $ git checkout -b dev
